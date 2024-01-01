@@ -1,0 +1,172 @@
+[
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "MISUAT                                  ",
+        "schema_user": "System                                  ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "MISUAT                                  ",
+        "schema_user": "SYSACTMGR                               ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "MISUAT                                  ",
+        "schema_user": "SYSOWNER                                ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "MISUAT                                  ",
+        "schema_user": "VIVEK                                   ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "FEDDB                                   ",
+        "schema_user": "CUSTOM                                  ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "FEDDB                                   ",
+        "schema_user": "VIVEK                                   ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "FEDDB                                   ",
+        "schema_user": "SYSTEM                                  ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "FEDDB                                   ",
+        "schema_user": "APPDUSR                                 ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "FEDDB                                   ",
+        "schema_user": "DAMUSER                                 ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "FEDCSIS                                 ",
+        "schema_user": "SYSTEM                                  ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "FEDCSIS                                 ",
+        "schema_user": "APPDUSR                                 ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "vivekc                                  ",
+        "host": "Vivek c                                 ",
+        "dbname": "FEDCSIS                                 ",
+        "schema_user": "DAMUSER                                 ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "mithunu                                 ",
+        "host": "Mithun U                                ",
+        "dbname": "MISUAT                                  ",
+        "schema_user": "MITHUN                                  ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "mithunu                                 ",
+        "host": "Mithun U                                ",
+        "dbname": "FEDDB                                   ",
+        "schema_user": "MITHUN                                  ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "mithunu                                 ",
+        "host": "Mithun U                                ",
+        "dbname": "FEDDB                                   ",
+        "schema_user": "DAMUSER                                 ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "sreelalts                               ",
+        "host": "Sreelal T                               ",
+        "dbname": "MISUAT                                  ",
+        "schema_user": "SREELAL                                 ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    },
+    {
+        "id": null,
+        "ad_user": "sreelalts                               ",
+        "host": "Sreelal T                               ",
+        "dbname": "FEDDB                                   ",
+        "schema_user": "APPDUSR                                 ",
+        "active": null,
+        "operation": null,
+        "last_operation": null
+    }
+]
